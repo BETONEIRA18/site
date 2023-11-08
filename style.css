@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
